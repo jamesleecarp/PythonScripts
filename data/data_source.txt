@@ -1,3 +1,0 @@
-ftpftp2.census.govgeotigerTIGER2016ZCTA5
-
-https://www.census.gov/geo/maps-data/data/tiger-line.html
