@@ -9,3 +9,5 @@ Creates a subset of the Census Tiger/Line Zip Code Tabulation Areas based on a C
 The tl_2016_us_zcta510.shp in the data file is the 2010 Census Tiger/Line Zip Codes.
 
 The enter the selected zip codes you want in the zipcodes.csv under the column "Zips".
+
+Tool finds each zip code in the csv and matches to the ZCTA5CE10 field in the Zip Codes layer.
