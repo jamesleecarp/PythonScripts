@@ -1,4 +1,6 @@
-# ZipCodeSelector.py
+# Zip Code Selector ArcToolbox
+
+## ZipCodeSelector.py
 
 Creates a subset of the Census Tiger/Line Zip Code Tabulation Areas based on a CSV list.
 
