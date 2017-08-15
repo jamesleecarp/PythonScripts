@@ -1,4 +1,4 @@
-# Count Script Python
+# Count Python Script
 
 ## CountScript.py
 
